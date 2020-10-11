@@ -1,0 +1,25 @@
+[1025/122931:INFO:(0)] WebCore is now online.
+[1025/122931:INFO:(0)] Running Awesomium 1.7.5.1
+[1025/122940:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1025/122940:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1029/221718:INFO:(0)] WebCore is now online.
+[1029/221718:INFO:(0)] Running Awesomium 1.7.5.1
+[1029/221726:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1029/221726:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1030/115337:INFO:(0)] WebCore is now online.
+[1030/115337:INFO:(0)] Running Awesomium 1.7.5.1
+[1030/115343:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1030/115343:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1030/120740:ERROR:socket_stream_dispatcher_host.cc(143)] socket_id=1 already closed.
+[1030/161356:ERROR:socket_stream_dispatcher_host.cc(143)] socket_id=2 already closed.
+[1106/104435:INFO:(0)] WebCore is now online.
+[1106/104435:INFO:(0)] Running Awesomium 1.7.5.1
+[1106/110738:ERROR:socket_stream_dispatcher_host.cc(143)] socket_id=1 already closed.
+[1110/111347:INFO:(0)] WebCore is now online.
+[1110/111347:INFO:(0)] Running Awesomium 1.7.5.1
+[1113/120344:INFO:(0)] WebCore is now online.
+[1113/120344:INFO:(0)] Running Awesomium 1.7.5.1
+[1119/114550:INFO:(0)] WebCore is now online.
+[1119/114550:INFO:(0)] Running Awesomium 1.7.5.1
+[1209/220239:INFO:(0)] WebCore is now online.
+[1209/220239:INFO:(0)] Running Awesomium 1.7.5.1
