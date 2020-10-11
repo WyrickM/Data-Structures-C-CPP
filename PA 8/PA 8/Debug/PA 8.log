@@ -1,0 +1,12 @@
+﻿  BST.cpp
+  Generating Code...
+c:\users\mantz wyrick\onedrive\documents\computer science\visual studio 2015\projects\homework 122\pa 8\pa 8\bst.cpp(49): warning C4715: 'BST::findSmallest': not all control paths return a value
+c:\users\mantz wyrick\onedrive\documents\computer science\visual studio 2015\projects\homework 122\pa 8\pa 8\bst.cpp(67): warning C4715: 'BST::findLargest': not all control paths return a value
+  Compiling...
+  main.cpp
+  TransactionNode.cpp
+  Node.cpp
+  DataAnalysis.cpp
+  Generating Code...
+  PA 8.vcxproj -> C:\Users\Mantz Wyrick\OneDrive\Documents\Computer Science\Visual Studio 2015\Projects\Homework 122\PA 8\Debug\PA 8.exe
+  PA 8.vcxproj -> C:\Users\Mantz Wyrick\OneDrive\Documents\Computer Science\Visual Studio 2015\Projects\Homework 122\PA 8\Debug\PA 8.pdb (Full PDB)
